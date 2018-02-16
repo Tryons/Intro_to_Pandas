@@ -5,7 +5,7 @@
 1. Install git
 2. Install Python3
 3. Install virtualenv: `pip3 install virtualenv`
-4. Clone this project: `git clone https://github.com/erik-sn/data-analysis`
+4. Clone this project: `git clone https://github.com/Tryons/Intro_to_Pandas.git`
 5. Create a virtual environment: `virtualenv venv --python=python3`
 6. Activate virtualenv:
   - Windows: `venv\Scripts\activate.bat`
